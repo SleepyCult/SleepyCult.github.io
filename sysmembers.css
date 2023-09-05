@@ -1,5 +1,6 @@
 body {
-  background-color: gray
+  background-color: rgb(0, 0, 0);
+  font-family: 'Codystar', cursive;
 }
 
 p {
@@ -19,12 +20,12 @@ h3 {
 }
 
 button { 
-  /* I didn't even know you could do this lmao That's actually super cool */
   background-color: rgb(129, 153, 127);
-  
+  font-family: 'Codystar', cursive;
   border: 2px solid cyan;
 }
 
 .button{
   color:Violet
 }
+

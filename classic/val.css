@@ -1,4 +1,5 @@
 body {
+  font-family: 'Codystar', cursive;
   background-color:  #935847
 }
 
@@ -19,6 +20,3 @@ button {
   
   border: 2px solid cyan;
 }
---cream: #fffdd0ff;
---aquamarine: #9effc8ff;
---pink-lace: #f5daffff;
