@@ -1,4 +1,5 @@
 body {
+  font-family: 'Codystar', cursive;
   background-color: black
 }
 
@@ -11,5 +12,5 @@ h2 {
 }
 
 h3 {
-  color: red
+  color: rgb(103, 219, 25)
 }

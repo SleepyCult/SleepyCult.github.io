@@ -1,9 +1,10 @@
 body {
-  background-color: rgb(241, 99, 99)
+  background-color: rgb(194, 230, 129);
+  font-family: 'Codystar', cursive;
 }
 
 h1 {
-  color: #c01d82
+  color: #06a5ee
 }
 
 h2 {

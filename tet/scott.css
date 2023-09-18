@@ -1,5 +1,6 @@
 body {
-  background-color: #c1ec5b
+  background-color: #70c468;
+  font-family: 'Codystar', cursive;
 }
 
 h1 {
@@ -8,8 +9,4 @@ h1 {
 
 h2 {
   color: #2d9caf
-}
-
-h3 {
-  color: #3ac52e
 }
